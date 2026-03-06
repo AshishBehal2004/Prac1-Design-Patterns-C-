@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\Prac1-C\u002B\u002B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{528F387A-D2F4-4F45-A3FE-96E53E5B743A}|Prac1-C\u002B\u002B.vcxproj|C:\\Users\\ASUS\\source\\repos\\Prac1-C\u002B\u002B\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{528F387A-D2F4-4F45-A3FE-96E53E5B743A}|Prac1-C\u002B\u002B.vcxproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{528F387A-D2F4-4F45-A3FE-96E53E5B743A}|Prac1-C\u002B\u002B.vcxproj|C:\\Users\\ASUS\\source\\repos\\Prac1-C\u002B\u002B\\Prac1-C\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{528F387A-D2F4-4F45-A3FE-96E53E5B743A}|Prac1-C\u002B\u002B.vcxproj|solutionrelative:Prac1-C\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{528F387A-D2F4-4F45-A3FE-96E53E5B743A}|Prac1-C\u002B\u002B.vcxproj|C:\\Users\\ASUS\\source\\repos\\Prac1-C\u002B\u002B\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{528F387A-D2F4-4F45-A3FE-96E53E5B743A}|Prac1-C\u002B\u002B.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,36 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 265,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Prac1-C\u002B\u002B\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Prac1-C\u002B\u002B\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-06T00:53:36.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Prac1-C\u002B\u002B.cpp",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Prac1-C\u002B\u002B\\Prac1-C\u002B\u002B.cpp",
-              "RelativeDocumentMoniker": "Prac1-C\u002B\u002B.cpp",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Prac1-C\u002B\u002B\\Prac1-C\u002B\u002B.cpp",
-              "RelativeToolTip": "Prac1-C\u002B\u002B.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-06T00:50:23.442Z",
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Prac1-C\u002B\u002B\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Prac1-C\u002B\u002B\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-06T01:16:31.127Z",
               "EditorCaption": ""
             }
           ]
