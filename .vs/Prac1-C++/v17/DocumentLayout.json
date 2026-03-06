@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\Prac1-C\u002B\u002B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{528F387A-D2F4-4F45-A3FE-96E53E5B743A}|Prac1-C\u002B\u002B.vcxproj|C:\\Users\\ASUS\\source\\repos\\Prac1-C\u002B\u002B\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{528F387A-D2F4-4F45-A3FE-96E53E5B743A}|Prac1-C\u002B\u002B.vcxproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{528F387A-D2F4-4F45-A3FE-96E53E5B743A}|Prac1-C\u002B\u002B.vcxproj|C:\\Users\\ASUS\\source\\repos\\Prac1-C\u002B\u002B\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{528F387A-D2F4-4F45-A3FE-96E53E5B743A}|Prac1-C\u002B\u002B.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{528F387A-D2F4-4F45-A3FE-96E53E5B743A}|Prac1-C\u002B\u002B.vcxproj|C:\\Users\\ASUS\\source\\repos\\Prac1-C\u002B\u002B\\Prac1-C\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Prac1-C\u002B\u002B\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Prac1-C\u002B\u002B\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-06T00:53:36.31Z",
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Prac1-C\u002B\u002B\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Prac1-C\u002B\u002B\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-06T01:03:42.975Z",
               "EditorCaption": ""
             },
             {
