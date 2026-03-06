@@ -23,9 +23,7 @@ int main() {
 }
 /* function to read number from standard input (keyboard) */
 void getNumber(int* num) {
-    
     scanf("%d", num);
-    //return num;
 }
 /* function to calculate the sum of two numbers */
 void calculateSum(int number1, int number2, int* sumPtr) {
